@@ -1,0 +1,8 @@
+{
+    "name": "Share Suite",
+    "description": "All items are shared by all players. Decreases item spawn based on players. Has share 'ban' list",
+	"internalname": "sharesuite",
+    "version": "1.0.2-alpha1",
+    "author": "Boogrit",
+    "mpcompat": true,
+}
